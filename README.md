@@ -1,4 +1,3 @@
-# .github.io
-Fanikauppa
+# Github Pages
 
-https://neorust.github.io/.github.io/
+https://neorust.github.io/Fanikauppa/
